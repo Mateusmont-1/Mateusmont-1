@@ -26,6 +26,13 @@ Hello 👋. I'm Mateus Monteiro, I have a degree in information systems and an i
 - [Instagram](https://www.instagran.com/_mateusmont)
 
 
+## Minhas Habilidades 👷
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 <!---
 Mateusmont-1/Mateusmont-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
