@@ -22,8 +22,8 @@
 Hello 👋. I'm Mateus Monteiro, I have a degree in information systems and an industrial automation technician, I currently have knowledge of Python and Java, I'm looking to collaborate on projects related to backend and web development
 ## Get in touch :coffee:
 
-- [E-mail](mateus.monteiro112@gmail.com)
-- [Instagram](https://www.instagran.com/_mateusmont)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:mateus.monteiro112@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mateusmont/)
 
 
 ## My knowledge 👷
