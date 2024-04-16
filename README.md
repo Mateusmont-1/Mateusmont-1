@@ -4,18 +4,8 @@
  
 <p align="center"> 
 
-<picture>
- 
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mateusmont-1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mateusmont-1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateusmont-1&show_icons=true" />
-</picture>
+## GITHUB Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateusmont-1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateusmont-1&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
 
 ## About me
 
