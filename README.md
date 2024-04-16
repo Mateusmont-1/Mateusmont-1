@@ -24,7 +24,7 @@ Hello 👋. I'm Mateus Monteiro, I have a degree in information systems and an i
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/ANDROID_STUDIO-008000?style=for-the-badge&logo=android&logoColor=white)
 
-![Snake animation](https://github.com/Mateusmont-1/Mateusmont-1/blob/outout/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mateusmont-1/Mateusmont-1/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Mateusmont-1/Mateusmont-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
