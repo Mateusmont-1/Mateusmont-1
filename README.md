@@ -13,7 +13,9 @@ Hello 👋. I'm Mateus Monteiro, I have a degree in information systems and an i
 ## Get in touch :coffee:
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:mateus.monteiro112@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mateusmont/)
+<a href="https://www.instagram.com/_mateusmont/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 
 ## My knowledge 👷
