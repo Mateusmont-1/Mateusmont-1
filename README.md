@@ -6,7 +6,7 @@
 
  ## About me
 
-Hello 👋. I'm Mateus Monteiro, I have a degree in information systems and an industrial automation technician, I currently have knowledge of Python and Java, I'm looking to collaborate on projects related to backend and web development
+Olá 👋. Sou Mateus Monteiro, sou bacharelado em sistemas de informação e técnico em automação industrial, atualmente tenho conhecimentos em Python e Java, procuro colaborar em projetos relacionados com backend e desenvolvimento web
 
 ## GITHUB Status
 <div align="left">
