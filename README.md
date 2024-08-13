@@ -4,7 +4,7 @@
  
 <p align="center">
 
- ## About me
+ ## Sobre mim
 
 Olá 👋. Sou Mateus Monteiro, sou bacharelado em sistemas de informação e técnico em automação industrial, atualmente tenho conhecimentos em Python e Java, procuro colaborar em projetos relacionados com backend e desenvolvimento web
 
@@ -15,7 +15,7 @@ Olá 👋. Sou Mateus Monteiro, sou bacharelado em sistemas de informação e t�
   <img src="https://streak-stats.demolab.com?user=Mateusmont-1&locale=en&mode=weekly&theme=buefy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Get in touch :coffee:
+## Contato :coffee:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mateus-monteiro-b93694132/" target="_blank">
@@ -29,7 +29,7 @@ Olá 👋. Sou Mateus Monteiro, sou bacharelado em sistemas de informação e t�
   </a>
 </div>
 
-## My knowledge 👷
+## Meu conhecimento 👷
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,11 +56,8 @@ Olá 👋. Sou Mateus Monteiro, sou bacharelado em sistemas de informação e t�
 </div>
 
 
-<!---## Snake 🐍
+<!---## Snake 🐍--->
 
-![Snake animation](https://github.com/Mateusmont-1/Mateusmont-1/blob/output/github-contribution-grid-snake.svg)--->
+![Snake animation](https://github.com/Mateusmont-1/Mateusmont-1/blob/output/github-contribution-grid-snake.svg)
 
-<!---
-Mateusmont-1/Mateusmont-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
